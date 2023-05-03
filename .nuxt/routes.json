@@ -3,36 +3,42 @@
     "name": "about",
     "path": "/about",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_0a7f51a0"
   },
   {
     "name": "categories",
     "path": "/categories",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/categories/index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_c362d468"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_4e841f83"
   },
   {
     "name": "categories-single",
     "path": "/categories/:single",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/categories/_single.vue",
-    "chunkName": "pages/categories/_single"
+    "chunkName": "pages/categories/_single",
+    "_name": "_a997693e"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_1a7831f5"
   },
   {
     "name": "singlePost",
     "path": "/:singlePost",
     "component": "/Users/admin/dbrepos/douglasfbrown/pages/_singlePost.vue",
-    "chunkName": "pages/_singlePost"
+    "chunkName": "pages/_singlePost",
+    "_name": "_2cee850a"
   }
 ]

@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1683129672",layout:"default",error:null,state:{pageType:a,title:"PRS OldGuy",subtitle:"~ Lenny Basham",featureImage:"\u002Fuploads\u002Fhero2.jpg",content:a,author:a,date:a},serverRendered:true,routePath:"\u002F",config:{}}}(""));
