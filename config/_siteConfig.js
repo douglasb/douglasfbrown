@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'PRS OldGuy',
-  tagline: '~ Lenny Basham',
+  siteName: 'Douglasfbrown.com',
+  tagline: '~ Lebron James',
   featureImage: '/uploads/hero2.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {

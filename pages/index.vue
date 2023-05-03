@@ -1,7 +1,7 @@
 /* eslint-disable */
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero title="Do not reinforce bad shots by remembering them" subtitle="~ Lenny Bassham" :image="featureImage">
+    <site-hero title="Failure is the pathway to success" subtitle="~ Lebron James" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
