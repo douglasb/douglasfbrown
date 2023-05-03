@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories/for-sale", {data:[{}],fetch:[],mutations:[["set",{content:"Equipment no longer needed\n",isEmpty:false,excerpt:"",name:"For Sale",image:"\u002Fuploads\u002Fbench.jpg",pageType:"category",slug:"for-sale"}]]});

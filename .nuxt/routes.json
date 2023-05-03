@@ -1,0 +1,38 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/categories/index.vue",
+    "chunkName": "pages/categories/index"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "categories-single",
+    "path": "/categories/:single",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/categories/_single.vue",
+    "chunkName": "pages/categories/_single"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "singlePost",
+    "path": "/:singlePost",
+    "component": "/Users/admin/dbrepos/douglasfbrown/pages/_singlePost.vue",
+    "chunkName": "pages/_singlePost"
+  }
+]

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/categories/sold", {data:[{}],fetch:[],mutations:[["set",{content:"Randomly written articles\n",isEmpty:false,excerpt:"",name:"Sold",image:"\u002Fuploads\u002Fposts.jpg",pageType:"category",slug:"sold"}]]});

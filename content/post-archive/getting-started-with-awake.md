@@ -1,3 +1,12 @@
+---
+title: Annealeez Annealer
+subtitle: Economical Flame Annealer
+category:
+  - For Sale
+author: Douglas Brown
+date: 2019-08-03T19:59:59.000Z
+featureImage: /uploads/getting-started-hero.jpg
+---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
 # Features
@@ -13,9 +22,10 @@ Awake is a Nuxt.js template for generating a beautifully robust static site with
 * Images automatically resized for various screens and given srcsets
 
 # Use Awake on Netlify
+
 Simply click the "Deploy to Netlify" button and then configure it to fit your needs as described below.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielkellyio/awake-template)
+[![Deploy to Netlify!!](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danielkellyio/awake-template)
 
 # Configuration
 
@@ -35,3 +45,7 @@ Posts and categories can be edited in Netlify CMS at \[your-site-url]/admin. At 
 # Local Development
 
 Since all content is store in the git repo with Netlify CMS, local development is a breeze. Simply install node, pull down the repo, install the dependencies with `npm install`, and run `npm run dev`.
+
+# Having Issues?
+
+If you're having any issues feel free to reach out to me on twitter [@danielkelly.io](https://twitter.com/danielkelly_io) or report an issue in [github repo](https://github.com/danielkellyio/awake-template).
